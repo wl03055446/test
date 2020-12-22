@@ -34,3 +34,5 @@ jobs:
         echo 123
         pwd
         uname -a
+        id -u
+        w
