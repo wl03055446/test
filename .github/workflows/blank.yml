@@ -33,6 +33,9 @@ jobs:
         echo test, and deploy your project.
         echo 123
         pwd
+        echo OS
         uname -a
+        echo UserID
         id -u
-        w
+        echo User
+        who
