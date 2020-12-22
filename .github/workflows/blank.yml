@@ -38,4 +38,4 @@ jobs:
         echo UserID
         id -u
         echo User
-        who
+        logname
