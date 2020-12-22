@@ -37,6 +37,5 @@ jobs:
         uname -a
         echo UserID
         id -u
-        echo User
-        logname
+        echo docker ps
         docker ps
